@@ -6,6 +6,8 @@ time by this system so they can do their own work
 within it and keep in touch
 
 # Sequence Diagarm
+[sequence diagram1.pdf](https://github.com/AyaElMoatazBellah/Postgraduate-and-Teaching-Staff-Management-System/files/7331990/sequence.diagram1.pdf)
+
 
 # Project Documentation
 [Postgraduate And Teaching.pdf](https://github.com/AyaElMoatazBellah/Postgraduate-and-Teaching-Staff-Management-System/files/7331953/Postgraduate.And.Teaching.pdf)
